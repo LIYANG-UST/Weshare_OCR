@@ -4,16 +4,16 @@
 
 ### 1. OCR
 · easyOCR <br>
-· paddleOCR
-· tesseract
+· paddleOCR <br>
+· tesseract <br>
 
 ### 2. Segmentation
-· Sementic Segmentation
-· Instance Segmentation
+· Sementic Segmentation <br>
+· Instance Segmentation <br>
 
 ### 3. Unwrap (Not Open-source)
-· DewarpNet https://sagniklp.github.io/dewarpnet-webpage/
-· DocUNet https://www3.cs.stonybrook.edu/~cvl/docunet.html
+· DewarpNet https://sagniklp.github.io/dewarpnet-webpage/ <br>
+· DocUNet https://www3.cs.stonybrook.edu/~cvl/docunet.html <br>
 
 ### 4. Modification
 ...
