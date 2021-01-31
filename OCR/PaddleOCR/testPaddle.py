@@ -1,7 +1,9 @@
 from paddleocr import PaddleOCR, draw_ocr
 
 ocr = PaddleOCR(use_angle_cls = True, lang = "ch")
-img_path = "../img/test2.jpg"
+
+# your own path
+img_path = "../img/test2.jpg" 
 
 result =  ocr.ocr(img_path, cls = True)
 
