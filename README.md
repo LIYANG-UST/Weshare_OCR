@@ -21,5 +21,8 @@
 
 ### 5. Splice
 · Splice_1  https://github.com/zengqq1997/PCVch03- <br>
+· Splice_2 <br>
 · OpenPano https://github.com/ppwwyyxx/OpenPano <br>
+
+### 6. Aster:Attentional Scene Text Recognizer with Flexible Rectification https://github.com/bgshih/aster 
 ...
