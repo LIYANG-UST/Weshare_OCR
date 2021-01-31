@@ -1,2 +1,2 @@
-###EasyOCR
+### EasyOCR
 https://github.com/JaidedAI/EasyOCR
