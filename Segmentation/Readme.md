@@ -1,1 +1,5 @@
-# This is for segmentation. (Models from PixelLib)
+# This is for segmentation. 
+
+seg-pixellib.py (Models from PixelLib) <br>
+
+humanseg.py (Models from PaddleHub) <br>
