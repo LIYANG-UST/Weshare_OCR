@@ -3,7 +3,7 @@
 ## Parts
 
 ### 1. OCR
-· easyOCR
+· easyOCR <br>
 · paddleOCR
 · tesseract
 
