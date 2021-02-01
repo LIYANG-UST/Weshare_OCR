@@ -25,4 +25,5 @@
 · OpenPano https://github.com/ppwwyyxx/OpenPano <br>
 
 ### 6. Aster:Attentional Scene Text Recognizer with Flexible Rectification https://github.com/bgshih/aster 
+(Not working because of the tensorflow version)
 ...
